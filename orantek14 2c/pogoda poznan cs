@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+.table{
+display:flex;
+    justify-content: center;
+    align-items: left;
+}
+.th{
+background-color: green; size: 2px;
+display:flex;
+    justify-content: center;
+    align-items: left;
+}
+.td{
+    display:flex;
+    justify-content: center;
+    align-items: left;
+    background-color: green; size: 2px;
+}
+.tr{
+    display:flex;
+    justify-content: center;
+    align-items: left;
+    background-color: green ; size:2px;
+}
