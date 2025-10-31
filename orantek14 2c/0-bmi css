@@ -1,0 +1,15 @@
+.body{
+margin: 0;
+padding: 0;
+}
+.baner{
+text-align: center;
+justify-content: center;
+}
+
+
+
+.table{
+background-color: green;
+
+}
