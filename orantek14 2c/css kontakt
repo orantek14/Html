@@ -1,0 +1,17 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+.baner{
+background-color: darkgrey;
+text-align: center;
+justify-content: center;
+
+}
+
+.panel {
+background-color: chartreuse;
+text-align: left;
+justify-content: left;
+}
