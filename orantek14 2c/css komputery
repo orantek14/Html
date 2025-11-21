@@ -1,0 +1,26 @@
+.baner{
+padding: 0;
+margin: 0;
+text-align: center;
+background-color: saddlebrown;
+}
+
+.panel lewy{
+ padding: 0;
+margin: 0;
+
+
+
+}
+
+.table{
+
+border-radius: 20%;
+
+
+}
+
+.stópka{
+
+
+}
