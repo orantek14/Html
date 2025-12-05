@@ -1,0 +1,31 @@
+!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkurator Wskażnika Ciala</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="baner" >
+    </div>
+    <div class="menu-lewe">
+    <h2>Wybierz modul</h2>
+    <ol>
+    <li><a href="file:///C:/Users/Uczen.DZDZW/Desktop/Kinkonslol/kontakt.html">Kontakt</a></li>
+      <li><a href="file:///C:/Users/Uczen.DZDZW/Desktop/Kinkonslol/0-bmi.html">0-bmi</a></li>
+
+    </ol>
+    </div>
+    <div class="panel glowny">
+    <h1>Oblicz swój Wskażnik BMI</h1>
+    </div>
+    <h2>Waga (kg)<input type=""></h2>
+    <h2> Wzrost (cm)<input type="">
+    <div  class="stopka" >
+        <button>kliknij</button>
+        <h3>Kalkurator BMI</h3>
+    </div>
+    <p>Zadanie wykonal:"ja czlowiek"</p>
+</body>
+</html>
