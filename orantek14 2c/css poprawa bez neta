@@ -1,0 +1,61 @@
+:root{
+--baner-color: #2c3e50;
+--menu-lewe-color:#D4EFDF;
+--panel-glowny-color:#F4F6F6;
+--stopka-color:#2C3e50;
+}
+
+body {
+margin: 0;
+font-family: Arial,
+}
+
+#Baner{
+background-color:#2C3e50;
+height: 60px;
+text-align: center;
+padding-top: 15px;
+font-size: 22px;
+}
+
+
+#menu-lewe{
+background-color:#D4EFDF ;
+height: 500px;
+size: 20%;
+
+}
+
+#panel-glowny{
+background-color: #F4F6F6;
+height: 500px;
+size: 80%;
+}
+
+#stopka{
+background-color: #2C3e50;
+font-family: Arial,
+text-align:right
+}
+
+#table{
+width: 80%
+margin: 30px auto;
+border-collapse:collapse;
+
+}
+
+#td{
+ border-radius: 1px;
+color: black;
+
+
+}
+
+#th{
+ border-radius: 1px;
+color: black;
+padding:10px
+
+
+}
