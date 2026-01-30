@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPONY</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+<div class="glowny">
+</div>
+<div class="boczny">
+ <script></script>
+<a href="https://opona.pl/"><p>więcej ofert</p></a>   
+</div>
+<div class="Sekcja1">
+    <img src="c:\Users\uczen.DZDZW\Desktop\OIP (3).webp" alt="Opona" class="Opona"  >
+    <h2>Opona Dnia</h2>
+    <script></script>
+</div>
+<div class="Sekcja2">
+    <h2>Najnowsze zamównienia</h2>
+    <script></script>
+</div>
+<div class="Stopki">
+ <p>Strone wykonal:000000000</p>
+</div>
+</body>
+</html>
