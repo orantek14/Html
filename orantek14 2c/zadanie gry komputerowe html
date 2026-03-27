@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gry Komputerowe</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+  <div class="naglówkowy">
+    <h1>Ranking gier komputerowych</h1>
+<div class="Blok sekcji lewej">
+    <h3>Top 5 gier w tym miesiącu</h3>
+    <ol>
+      <li>Gra A</li>
+      <li>Gra B</li>
+      <li>Gra C</li>
+      <li>Gra D</li>
+      <li>Gra E</li>
+      <a href="http://sklep.gry.pl">Tu kupisz gry</a>
+      <h3>Nasz sklep</h3>
+</div>
+  </div>  
+  <div class="blok sekcji prawej">
+    <h3>Dodaj nową grę</h3>
+    <form method="POST"></form>
+    <form action="">
+     <input type="text">   
+     <input type="text">
+     <input type="text">
+     <input type="text">
+     <button>DODAJ</button>
+    </form>
+  </div>
+  <div class="Blok sekcji środkowej">  
+  </div>
+  <div class="Blosk sekcji stopki">
+    <p>orantek14</p>
+    <form action="text.php" method="POST"></form>
+    <form method="GET"></form>
+  </div>
+</body>
+</html>
