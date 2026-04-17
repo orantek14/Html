@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>przycisk</title>
+    <link rel="stylesheet" href="styl.css">
+<Textarea name="text" id="text"></Textarea>
+</head>
+<body>
+   <?php
+<form  method="post">
+<button type="submit" name="button" >wyślij</button>
+</form>
+   if(isset($_POST['text'])){
+    echo "przycisk został kliknięty";
+   $_POST['log']
+
+   var _dump ($_POST);
+    foropen(date day, month, year,time){
+echo a  "Dzień: $day, Miesiąc: $month ; 
+    }
+    forclose[Rok: $year, Czas: $time";
+
+    ]
+
+    
+
+   ?>
+</body>
+</html>
