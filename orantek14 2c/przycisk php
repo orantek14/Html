@@ -15,14 +15,13 @@
    if(isset($_POST['text'])){
     echo "przycisk został kliknięty";
    $_POST['log']
+$data = data("Y-m-d H:i:s");
+echo $data . " - " . $_POST['Text'];
+$File = fopen("kupa.txt", "a");
+fwrite ("$file, $data. " - ". $_POST['Text'] . "\n");
+fclose($file);
+}
 
-   var _dump ($_POST);
-    foropen(date day, month, year,time){
-echo a  "Dzień: $day, Miesiąc: $month ; 
-    }
-    forclose[Rok: $year, Czas: $time";
-
-    ]
 
     
 
