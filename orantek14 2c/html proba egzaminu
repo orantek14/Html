@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tatuaże</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+    <script>
+        Document.getElementById
+        if(i>++1)
+        while 
+    console.log 
+     document.createElement()
+     
+
+    </script>
+    <div class="Blok-naglowkowy-1" >
+        <img src="logo.png" alt="Salon">
+    </div>
+    <div class="Blok-naglowkowy-2"  >
+        <h1>Studio Tatuaż </h1>
+    </div>
+    <div class="Blok-sekcji"  >
+        <h2>Galeria</h2>
+        <img src="smok.png" alt=""   .mniatury>
+        <img src="koliber.png" alt="" .mniatury>
+    </div>
+    <div class="Blok-boczny">
+        <h3>Dodaj wzór</h3>
+        <form action="POST"></form>
+        <input type="number" </label for="cena">Cena  </label>  >
+        <input type="image">
+        <section>
+            <option value="Wybierz">Wybierz</option>
+            <option value="Czarny">Czarny</option>
+            <option value="Czerwony">Czerwony</option>
+            <option value="Zielony">Zielony</option>
+            <option value="Niebieski">Niebieski</option>
+        <label for="kolor">wzór</label>
+        </section>
+        <button>Dodaj wzór</button>
+        <label for="kolor">wzór</label>
+    </div>
+    <div class="Blok-stopki"  >
+        <p>Autor Strony:</p>
+    </div>
+</body>
+</html>
